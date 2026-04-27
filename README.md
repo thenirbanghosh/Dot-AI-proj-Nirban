@@ -74,4 +74,3 @@ I want to be upfront about what this pipeline is *not*:
 
 This approach seemed to work better than the very first thing I tried (which was just `demand_mw.rolling(3).mean()` without a shift — giant leakage), but I'm sure there's a lot of room to grow. Mostly I wanted to get a clean, honest, reproducible baseline working and understand every step, even if the final number isn't the very best
 
-PLEASE SELECT ME FOR THE INTERVIEW, i really worked hard on this.
